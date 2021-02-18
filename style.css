@@ -1,0 +1,12 @@
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    height: 300px;
+    width: 400px;
+}
+
+.card-prop{
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+}
